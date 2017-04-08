@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+
+.employeeListing {
+    margin-top: 20px;
+}
+
+.panel-default .panel-heading {
+    background-color: deepskyblue;
+    color: white;
+    font-weight: bold;
+}
+
+.btn {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
